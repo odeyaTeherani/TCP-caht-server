@@ -1,4 +1,3 @@
-		README
 Description:
 
 To run the program- enter: ./chatserver <port> <max_clients>
